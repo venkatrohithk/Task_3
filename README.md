@@ -1,13 +1,13 @@
 # Task 3: SQL for Data Analysis
 
-## 📑 Project Overview
+## Project Overview
 
 This project demonstrates SQL data analysis operations on an E-commerce database.  
 The aim is to practice and apply SQL techniques like `SELECT`, `WHERE`, `ORDER BY`, `GROUP BY`, `JOINS`, `SUBQUERIES`, `AGGREGATE FUNCTIONS`, `VIEWS`, and `INDEXES` to extract insights and optimize database performance.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Database:** MySQL
 - **Tools:** MySQL CLI / MySQL Workbench
@@ -18,7 +18,7 @@ The aim is to practice and apply SQL techniques like `SELECT`, `WHERE`, `ORDER B
 
 ---
 
-## 🗂️ Steps Performed
+## Steps Performed
 
 1. **Database and Table Creation**
    - Created database `ecommerce`.
